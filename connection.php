@@ -2,7 +2,7 @@
 $hostname = "localhost";
 $username = "root";
 $password = "";
-$db_name = "db_absen";
+$db_name = "absensi_php";
 
 $db = new mysqli($hostname, $username, $password, $db_name);
 
